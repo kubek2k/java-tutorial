@@ -20,7 +20,7 @@ Task: Change two assertion conditions to let `main()` pass
 
 ## String equality
 
-Task: Change two assertion conditions to let `main()` pass
+Task: Change three assertion conditions to let `main()` pass
 
 ## Maven (directory emptyproject)
 
