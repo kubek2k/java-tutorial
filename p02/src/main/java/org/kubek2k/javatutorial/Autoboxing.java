@@ -14,6 +14,10 @@ public class Autoboxing {
         printObject(b);
     }
 
+    public static void print(short s) {
+        printObject(s);
+    }
+
     public static void print(long l) {
         printObject(l);
     }
