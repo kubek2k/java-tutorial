@@ -20,6 +20,6 @@ public class SpiralArray {
                 new int[]{11, 16, 15, 6},
                 new int[]{10, 9, 8, 7}
         };
-        System.out.println(Arrays.equals(output, expected));
+        System.out.println(Arrays(output, expected));
     }
 }
