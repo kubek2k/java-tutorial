@@ -11,3 +11,7 @@
 
 ## Database connection
   * Make servlets use database to save and use saved shortened urls (you can use any database you like)
+  * Make the service reuse shortened urls
+
+## (optional) Create a JSP page with url shortener UI 
+... so that its easier to test 
