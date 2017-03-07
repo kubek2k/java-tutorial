@@ -3,7 +3,7 @@ package org.kubek2k.javatutorial;
 public class FifthSmallest {
 
     public static int fifthSmallest(int [] arr) {
-        int [] buffer = new int [6];
+        int [] buffer = new int [5];
         return 0;
     }
 
